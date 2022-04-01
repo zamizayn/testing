@@ -8,15 +8,12 @@
   }
 },
  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "io.mytag.production",
-      "sha256_cert_fingerprints": [
-        "7F:C6:62:CD:F7:86:67:E2:3C:56:12:2D:4B:18:F0:93:28:F5:1E:A5:E0:86:EC:BC:7F:F3:8F:25:52:46:1F:20"
-      ]
+      "sha256_cert_fingerprints": 
+      ["7F:C6:62:CD:F7:86:67:E2:3C:56:12:2D:4B:18:F0:93:28:F5:1E:A5:E0:86:EC:BC:7F:F3:8F:25:52:46:1F:20"]
     }
   }
 ]
